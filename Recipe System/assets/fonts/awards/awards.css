@@ -1,0 +1,113 @@
+@font-face {
+	font-family: "FlaticonAwards";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="award-icon-"]:before, [class*=" award-icon-"]:before,
+[class^="award-icon-"]:after, [class*=" award-icon-"]:after {   
+	font-family: FlaticonAwards;
+	font-size: inherit;
+	font-style: normal;
+	font-weight: 400;
+}
+.award-icon-award:before {
+	content: "\e000";
+}
+.award-icon-award2:before {
+	content: "\e001";
+}
+.award-icon-businessman:before {
+	content: "\e002";
+}
+.award-icon-cooker:before {
+	content: "\e003";
+}
+.award-icon-double:before {
+	content: "\e004";
+}
+.award-icon-female:before {
+	content: "\e005";
+}
+.award-icon-first:before {
+	content: "\e006";
+}
+.award-icon-fivepointed:before {
+	content: "\e007";
+}
+.award-icon-fivepointed2:before {
+	content: "\e008";
+}
+.award-icon-fruits:before {
+	content: "\e009";
+}
+.award-icon-game:before {
+	content: "\e00a";
+}
+.award-icon-game2:before {
+	content: "\e00b";
+}
+.award-icon-games:before {
+	content: "\e00c";
+}
+.award-icon-games2:before {
+	content: "\e00d";
+}
+.award-icon-games3:before {
+	content: "\e00e";
+}
+.award-icon-male:before {
+	content: "\e00f";
+}
+.award-icon-man:before {
+	content: "\e010";
+}
+.award-icon-man2:before {
+	content: "\e011";
+}
+.award-icon-medal:before {
+	content: "\e012";
+}
+.award-icon-medal2:before {
+	content: "\e013";
+}
+.award-icon-person:before {
+	content: "\e014";
+}
+.award-icon-shield:before {
+	content: "\e015";
+}
+.award-icon-sports:before {
+	content: "\e016";
+}
+.award-icon-star:before {
+	content: "\e017";
+}
+.award-icon-symbolic:before {
+	content: "\e018";
+}
+.award-icon-teacher:before {
+	content: "\e019";
+}
+.award-icon-thumb:before {
+	content: "\e01a";
+}
+.award-icon-top:before {
+	content: "\e01b";
+}
+.award-icon-trophy:before {
+	content: "\e01c";
+}
+.award-icon-winner:before {
+	content: "\e01d";
+}
+.award-icon-young:before {
+	content: "\e01e";
+}
+.award-icon-young2:before {
+	content: "\e01f";
+}
